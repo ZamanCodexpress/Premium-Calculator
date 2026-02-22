@@ -68,7 +68,7 @@ All logic runs entirely in the browser with **no external dependencies** beyond 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/premium-calculator.git
+   git clone https://github.com/ZamanCodexpress/To-Do-List-Manager.git
    ```
    **OR** download the project as a `.zip` file and extract it.
 
