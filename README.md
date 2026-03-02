@@ -104,9 +104,4 @@ This project is **open-source** and intended for **educational and portfolio use
 
 ## Author
 
-Built as a frontend practice project to demonstrate:
-
-* Premium UI design with CSS animations
-* Object-oriented JavaScript
-* Keyboard accessibility
-* Responsive and mobile-first layout
+Designed and developed by **Zaman Siraj**
